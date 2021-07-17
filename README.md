@@ -1,6 +1,13 @@
 
 
-# SSI Web Application Installation Procedure
+# Project Premise
+The purpose of this system was to allow the Southern Alberta Institute of Technology’s (SAIT) Office of the Registrar to create, send, or verify digital transcripts easily and securely. The students would be able to store the digital copy of their transcript on a "digital wallet" mobile application called Connect.Me. Our project uses Immutable Decentralized Identifiers (DID’s) on a Blockchain to interface with a web application our group created. We used the web application and the DID's to create secure connections between students and "Certificate Authorities" (SAIT's Office Of The Registrar). The web application and a students' digital wallet would communicate to provide a quick, secure and verifiable connection in which digital credentials could be transferred and stored.
+
+SAIT instructor George Chase, on behalf of SAIT, offered the team the opportunity to pursue this project. George stated that he wanted the team to create a proof of concept product for SAIT that utilizes Evernym’s "Verity UI" and Sovrin’s "Hyperledger Indy". The overarching goal of the project was to showcase the potential benefits that Blockchain technology could provide SAIT and its students in the future. 
+
+This ended up being an effective demo of a potential application of Blockchain technology. SAIT's IT department essentially replicated the core ideas of our project. SAIT now allows students to download their school credentials to an ODEM supplied digital wallet using the Etherium Blockchain. The Capstone team believes this new innovation in SAIT's document processing is in no small part due to our project.
+
+## SSI Web Application Installation Procedure
 
 To install the SSI Web Application, VirtualBox and Vagrant must be installed first. The following instructions cover installation on a Windows environment. Begin with installing VirtualBox.
 
